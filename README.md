@@ -16,8 +16,8 @@
    https://developer.android.com/codelabs/basic-android-kotlin-compose-art-space
 </div>
 
-## Screen Demo:
 <div align="center">
+<h1>Screen Demo:</h1>
 <table>
 <tr>
 <td>Sample Screen 1</td>
