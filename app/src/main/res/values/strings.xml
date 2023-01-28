@@ -22,15 +22,6 @@
     <string name="art_work_7_title">this is an art image 7</string>
     <string name="artist_7_name">Artist 7</string>
     <string name="art_work_7_year">(2000)</string>
-    <string name="art_work_8_title">this is an art image 8</string>
-    <string name="artist_8_name">Artist 8</string>
-    <string name="art_work_8_year">(1930)</string>
-    <string name="art_work_9_title">this is an art image 9</string>
-    <string name="artist_9_name">Artist 9</string>
-    <string name="art_work_9_year">(2014)</string>
-    <string name="art_work_10_title">this is an art image 10</string>
-    <string name="artist_10_name">Artist 10</string>
-    <string name="art_work_10_year">(2021)</string>
     <string name="previous">previous</string>
     <string name="next">next</string>
 </resources>

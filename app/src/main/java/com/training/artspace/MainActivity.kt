@@ -178,6 +178,28 @@ fun ArtSpaceScreen() {
                     Spacer(modifier = Modifier.height(16.dp))
                     DisplayController(
                         onBackward = { currentState = 5 },
+                        onForward = { currentState = 7 })
+                }
+            }
+            7 -> {
+                Column(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(20.dp)
+                ) {
+                    ArtWorkWall(
+                        resourceDrawable = R.drawable.art7,
+                        contentDescription = R.string.art_work_content_desc
+                    )
+                    Spacer(modifier = Modifier.height(16.dp))
+                    ArtDescriptor(
+                        titleId = R.string.art_work_7_title,
+                        nameID = R.string.artist_7_name,
+                        yearId = R.string.art_work_7_year
+                    )
+                    Spacer(modifier = Modifier.height(16.dp))
+                    DisplayController(
+                        onBackward = { currentState = 6 },
                         onForward = { currentState = 1 })
                 }
             }
