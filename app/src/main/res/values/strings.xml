@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_work_content_desc">this is an art image</string>
+    <string name="art_work_1_title">this is an art image 1</string>
+    <string name="artist_1_name">Artist 1</string>
+    <string name="art_work_1_year">(1875)</string>
+    <string name="art_work_2_title">this is an art image 2</string>
+    <string name="artist_2_name">Artist 2</string>
+    <string name="art_work_2_year">(2003)</string>
+    <string name="art_work_3_title">this is an art image 3</string>
+    <string name="artist_3_name">Artist 3</string>
+    <string name="art_work_3_year">(1917)</string>
+    <string name="art_work_4_title">this is an art image 4</string>
+    <string name="artist_4_name">Artist 4</string>
+    <string name="art_work_4_year">(2006)</string>
+    <string name="art_work_5_title">this is an art image 5</string>
+    <string name="artist_5_name">Artist 5</string>
+    <string name="art_work_5_year">(2020)</string>
+    <string name="art_work_6_title">this is an art image 6</string>
+    <string name="artist_6_name">Artist 6</string>
+    <string name="art_work_6_year">(1905)</string>
+    <string name="art_work_7_title">this is an art image 7</string>
+    <string name="artist_7_name">Artist 7</string>
+    <string name="art_work_7_year">(2000)</string>
+    <string name="art_work_8_title">this is an art image 8</string>
+    <string name="artist_8_name">Artist 8</string>
+    <string name="art_work_8_year">(1930)</string>
+    <string name="art_work_9_title">this is an art image 9</string>
+    <string name="artist_9_name">Artist 9</string>
+    <string name="art_work_9_year">(2014)</string>
+    <string name="art_work_10_title">this is an art image 10</string>
+    <string name="artist_10_name">Artist 10</string>
+    <string name="art_work_10_year">(2021)</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+</resources>
